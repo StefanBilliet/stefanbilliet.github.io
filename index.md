@@ -1,4 +1,4 @@
-## Before we talk
+## My operating manual
 
 I tend to think a lot about how I work, what I enjoy doing well, and where I am not a great fit.
 
