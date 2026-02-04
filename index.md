@@ -1,24 +1,26 @@
 # My operating manual
 
-I tend to think a lot about how I work, what I enjoy doing well, and where I am not a great fit.
+![Grandpa Simpson](IMG_1508.gif)
+
+I tend to think a lot about how I work, what I do well, and where I am not the best fit.
 
 Over time, I’ve learned that these things matter just as much as skills or experience when working with others. They shape how decisions are made, how pressure shows up, and what people expect from each other.
 
 I care a lot about building systems — and ways of working — that teams can rely on, especially when things get complex or stressful.
 
 What follows is a summary of patterns that have helped me and the teams I work with deliver sustainably over time.  
-It’s best understood as context for how I operate, not as a checklist.
+Think of it as context for how I tend to work, not a list of requirements.
 
 ---
 
 ## TL;DR
 
 - I rely on strong engineering fundamentals, simplicity of design, and pragmatic scoping to deliver value consistently over time.  
-- I take responsibility for the long-term health of the systems I work on, and I try to avoid introducing long-term system risk without making trade-offs explicit.  
+- I think a lot about the long-term health of the systems I work on, and I try to make trade-offs visible when they are made.
 - I am most effective in setups where architectural responsibility and decision-making authority are clearly aligned.  
-- I usually question trade-offs that are described as temporary when their long-term impact is likely to outlive the context that justified them.  
+- I tend to look closely at trade-offs that are described as temporary when their long-term impact is likely to outlive the context that justified them.  
 - I value collaboration, shared ownership of decisions, and environments where disagreement can happen without becoming personal.  
-- I have clear views on fundamentals and will voice them when they matter, especially when I believe it protects delivery, quality, or team sustainability.
+- I have clear views on fundamentals and will bring them into the conversation when they are relevant to delivery, quality, or team sustainability.
 
 ---
 
@@ -38,7 +40,7 @@ In complex systems, I generally assume the following patterns hold:
 - speed and quality are not opposing sliders  
 - complexity does not disappear when ignored; it accumulates  
 
-I am comfortable making trade-offs, but only when they are:
+I am comfortable making trade-offs, especially when they are:
 
 - explicit  
 - owned  
@@ -47,10 +49,10 @@ I am comfortable making trade-offs, but only when they are:
 I strongly embrace pragmatism in scope, because that is often where the highest leverage exists.  
 I am more cautious with technical “pragmatism”, except when deliberately working on prototypes.
 
-My goal here is not technical purity, but rather predictable delivery, lower long-term cost, and systems teams can safely evolve over time.
+My goal here is not technical purity, but predictable delivery, lower long-term cost, and systems teams can safely evolve over time.
 
 I generally assume good intent in teams and decisions, even when I disagree with the direction.  
-When I push on structural concerns, it usually comes from wanting the system — and the people working in it — to succeed long term.
+When I raise structural concerns, it comes from wanting the system — and the people working in it — to succeed over the long term.
 
 ---
 
@@ -59,9 +61,9 @@ When I push on structural concerns, it usually comes from wanting the system —
 - I prefer working things out together rather than relying solely on long written analyses. I tend to think best in conversation, by collaboratively exploring options and constraints.  
 - I value alignment that leads to clear decisions more than alignment that remains implicit or open-ended.  
 - I tend to frame problems in terms of boundaries, responsibilities, and invariants, especially when things start to feel unclear or fragile.  
-- I am willing to pause early when structure or ownership is ambiguous, because unresolved ambiguity usually slows teams down later.  
+- I am comfortable pausing early when structure or ownership is ambiguous, because unresolved ambiguity often slows teams down later.  
 
-I am usually calm in discussion, but persistent when I believe a structural issue may be getting glossed over.
+I am calm in discussion, but persistent when I believe a structural issue may become a problem later.
 
 ---
 
@@ -79,24 +81,24 @@ I do best in environments where:
 
 ## Where I tend to be less effective
 
-I tend to do my best work in environments where responsibility, authority, and long-term consequences are clearly connected.
+I tend to be less effective in environments where responsibility, authority, and long-term consequences drift apart.
 
-I usually struggle when these drift apart — for example when ownership is unclear, when structural trade-offs remain implicit, or when short-term decisions repeatedly override long-term system health without being acknowledged as trade-offs.
+For example, when ownership is unclear, when structural trade-offs remain implicit, or when short-term decisions repeatedly override long-term system health without being acknowledged as trade-offs.
 
 None of these situations are unusual in isolation.  
-What matters is whether teams are willing and able to make these patterns visible and improve them over time.
+What matters most to me is whether teams are willing and able to make these patterns visible and improve them over time.
 
 ---
 
 ## What you can expect from me
 
-- I surface risks early, even when doing so is inconvenient in the short term.  
-- I take ownership of the systems I work on, and I am deliberate about the responsibilities that come with that ownership.  
+- I try to make risks visible early, even when doing so is inconvenient in the short term.  
+- I tend to take ownership of the systems I work on, and I am deliberate about the responsibilities that come with that ownership.  
 - I invest in making systems easier to reason about, especially as they grow and change.  
 - I support teammates who want to understand why things work the way they do, not just what to do next.  
 
 I am reliable, but not passive.  
-If something appears structurally wrong, I will say so — usually calmly, and usually with the goal of preventing bigger problems later.
+If something appears structurally wrong, I will bring it up — calmly, and with the goal of preventing bigger problems later.
 
 ---
 
